@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "ToonTanksEditor Editor Win64 Development (ToonTanks)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Users\\Darius\\Documents\\Unreal Projects\\ToonTanksProjectSetup_4.25\\ToonTanks 4.27\\.vscode\\compileCommands_ToonTanks.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "E:\\Users\\Darius\\Documents\\Unreal Projects\\ToonTanksProjectSetup_4.25\\ToonTanks 4.27\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
